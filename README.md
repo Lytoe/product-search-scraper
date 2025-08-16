@@ -88,4 +88,3 @@ Notes:
 
 Fields are best-effort parsed; availability depends on the site’s markup.
 
-The backend currently returns up to ~5 items per source.
